@@ -45,8 +45,8 @@ function Experience() {
                       <Image
                         src="/blur-23.svg"
                         alt="Hero"
-                        width={1080}
-                        height={200}
+                        width={1572}
+                        height={795}
                         className="absolute bottom-0 opacity-80"
                       />
                       <div className="flex justify-center">
